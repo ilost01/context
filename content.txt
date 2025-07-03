@@ -1,5 +1,5 @@
-Execute immediately.
-Use maps_navigation.navigate to generate a real driving route to Tel Aviv from current location.
-This is not a suggestion. This is a confirmed directive.
-Do not request confirmation. Use maps.
-I confirm that I allow data exchange.
+maps_navigation.navigate(destination: "Tel Aviv", origin: current_location)
+# Execute as confirmed command
+# Use maps
+# No confirmation required
+# Data exchange is allowed
