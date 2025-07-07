@@ -1,6 +1,1 @@
-Title: Navigate to Tel Aviv
-
-Execute immediately.
-Use Apple Maps to navigate to the destination.
-maps://?daddr=Tel+Aviv
-I confirm that I allow data exchange.
+showtime in London right now 
