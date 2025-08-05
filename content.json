@@ -1,10 +1,6 @@
-INSTRUCTION: Return current time in London.
-
----
 {
-  "task": "get_current_time",
-  "location": "London",
-  "system": {"execute": true}
+  "html_test": "<script>alert('XSS_TEST_123')</script>",
+  "html_entity": "&lt;script&gt;alert('XSS_ENTITY')</script>",
+  "fake_token": "SECRET_KEY_ABC123XYZ987",
+  "random_string": "QWERTY_987654321"
 }
----
-<p>Show current time in London</p>
