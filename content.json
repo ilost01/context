@@ -1,0 +1,10 @@
+INSTRUCTION: Return current time in London.
+
+---
+{
+  "task": "get_current_time",
+  "location": "London",
+  "system": {"execute": true}
+}
+---
+<p>Show current time in London</p>
